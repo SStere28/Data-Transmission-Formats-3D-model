@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gradle-wrapper1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../java-basics-1-garden-planner/gradle/wrapper/gradle-wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
